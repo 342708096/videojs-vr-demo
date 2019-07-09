@@ -19,7 +19,7 @@ npm run local-samples
 
 ### Run
 ```
-npm run serve
+npm start serve
 ```
 
 ## Examples
